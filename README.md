@@ -126,3 +126,7 @@ No canto superior direito do GitHub, clique em **Fork**.
 ## **2. Clone o Seu Fork**
 ```bash
 git clone https://github.com/ti-lutocuritiba/Teste-tecnico.git
+
+## **3. Commit seu codigo com redme explicação os conceitos
+
+## **4. Suba sua api e front end em algum abiente vercel render etc  adicione os links de acesso no repo 
